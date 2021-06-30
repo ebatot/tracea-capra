@@ -1,4 +1,6 @@
-[FROM Capra's read me at https://wiki.eclipse.org/Capra ]
+[Tracea's integration has been made on Capra 0.8.2]
+
+[This read me comes from Capra's read me at https://wiki.eclipse.org/Capra ]
 
 # Eclipse Capra - A Traceability Management Tool
 
